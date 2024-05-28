@@ -1,4 +1,4 @@
-package com.ebac.modulo33;
+package com.ebac.modulo59;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
@@ -9,7 +9,7 @@ import java.sql.Statement;
 public class Contexto {
 
     public static void main(String[] args) throws SQLException {
-        String url = "jdbc:mysql://localhost:3306/modulo33";
+        String url = "jdbc:mysql://localhost:3306/modulo59";
         String user = "root";
         String password = "root";
 

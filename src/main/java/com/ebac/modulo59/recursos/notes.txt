@@ -19,7 +19,7 @@ Ingresar al panel grafico mediante el navegador
 http://localhost:8080/
 Servidor: 172.17.0.2 (O bien la IP obtenida al ingresar al contenedor de mysql
 
-1.- Crear la base de datos Modulo33
+1.- Crear la base de datos Modulo59
 2.- Crear tablas
 
 Consultas tipo DDL (Data Definition Language)
